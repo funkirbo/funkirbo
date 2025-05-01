@@ -1,5 +1,5 @@
 {
     "name": "funkirbo",
     "compatibility_date": "2025-05-01",
-    "main": "src/index.astro"
+    "main": "src/index.html"
 }

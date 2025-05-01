@@ -1,5 +1,5 @@
 {
     "name": "worker-name",
     "compatibility_date": "2025-05-01",
-    "main": "src/index.ts"
+    "main": "src/index.astro"
 }

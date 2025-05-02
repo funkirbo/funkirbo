@@ -4,13 +4,13 @@ const allPosts = Object.values(import.meta.glob('./posts/*.md', { eager: true })
 const pageTitle = "reviews";
 ---
 <BaseLayout pageTitle={pageTitle}>
-    <div class = "flex center">
+    <div class = "flex center"style="border-color:green;">
         <h2>reviews</h2>
         <div class="bottom">
             <p>these are my reviews, sorted alphabetically!</p>
         </div>
     </div>
-    <div class = "flex center">
+    <div class = "flex center"style="border-color:blue;">
             {allPosts.map((post: any) => <div class = "bottom"><p><a href={post.url}>{post.frontmatter.title}</a><br><span class = "smaller">{post.frontmatter.date}<br>{post.frontmatter.description}</span></p></div>)}
     </div>
 </BaseLayout>

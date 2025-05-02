@@ -36,6 +36,7 @@ button:hover {
 	border: 2px solid white;
 	overflow-x: hidden;
 	margin: 10px;
+    border-radius: 15px;
 }
 
 .flex > div /* Boxes */ {
@@ -44,6 +45,7 @@ button:hover {
 	margin: 10px;
 	margin-bottom: 0;
 	border: 1px solid white;
+    border-radius: 15px;
 }
 
 .flex > div.bottom {
@@ -280,7 +282,7 @@ li a.nav{
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    background-color: rgb(50, 50, 50);
+    background-color: #292929;
     margin:0;
 }
 
@@ -289,5 +291,7 @@ li a.nav:hover{
 }
 
 body {
-    background-color: #070707;
+    background-color: #141414;
+    margin:0;
+    padding:0;
 }

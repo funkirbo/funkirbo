@@ -30,7 +30,7 @@ button:hover {
 	display: flex;
 	justify-content: center;
 	flex-direction: column;
-	background-color: rgb(20, 20, 20);
+	background-color: #181818;
 	width: 700px;
 	max-width: 100%;
 	border: 2px solid white;

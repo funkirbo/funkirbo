@@ -1,7 +1,7 @@
 ---
 layout: "../../layouts/MarkdownPostLayout.astro"
 title: "sonic the hedgehog"
-description: "a damn tragedy in level design"
+description: "a damn travesty in level design."
 date: 5/3/25
 platform: pc
 score: 5

@@ -7,7 +7,7 @@ platform: pc
 score: 7
 video: https://youtu.be/Q2oeYAzXf4M
 release: "trilogy release"
-image: "../../../public/post_images/pwaa-2.jpg"
+image: "/post_images/pwaa-2.jpg"
 ---
 while the first ace attorney game was fantastic, it was just that; the first game. there were some rather obvious issues that needed to be ironed out; most notably, the poor pacing in the latter trials, and the lack of any mechanical diversity outside of trials. they're relatively easy problems to fix going into a new game, as long as you keep them in mind as development continues. and, luckily for us, director shu takumi did!
 

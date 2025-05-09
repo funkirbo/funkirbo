@@ -7,7 +7,7 @@ platform: pc
 score: 10
 video: https://youtu.be/ykzMXb5gUxI
 release: trilogy release
-image: "../../../public/post_images/pwaa-3.jpg"
+image: "/post_images/pwaa-3.jpg"
 ---
 ace attorney does a couple of things really, really well. character development is one, high-impact emotional moments are another. and, while the mysteries are pretty hit or miss, there’s many more hits than misses, and even the worst cases have their moments.
 

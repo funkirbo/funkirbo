@@ -6,7 +6,7 @@ date: 4/28/25
 platform: pc
 score: 7
 video: https://youtu.be/CGJJjS_iDJU
-image: "../../assets/neonabyss.png"
+image: "/post_images/neonabyss.png"
 ---
 not everything has to be a massive, perfect masterpiece. creative people want to make creative things, but creative people also just want to make things. sometimes those things take inspiration from other things, or aren't quite as mechanically or narratively deep as their contemporaries. and that's okay!
 

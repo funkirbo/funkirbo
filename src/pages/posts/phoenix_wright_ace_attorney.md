@@ -7,7 +7,7 @@ platform: pc
 score: 8
 video: https://www.youtube.com/watch?v=cx2IXpJwFFc
 release: "trilogy release"
-image: "../../public/post_images/pwaa-1.jpg"
+image: "../../../public/post_images/pwaa-1.jpg"
 ---
 the visual novel genre, as a whole, just... wasn't really a thing over in the west before 2005. sure, there were a couple of smaller-scale games that came along throughout the 90s, but the american equivalent of a VN was old point-and-click games; alone in the dark, myst, that kind of thing. after those fell out of favor with the public, RPGs took over as the primary storytelling game genre. japan's biggest story-based western releases were less twilight syndrome and more final fantasy.
 

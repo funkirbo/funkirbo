@@ -282,7 +282,7 @@ li a.nav{
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    background-color: #292929;
+    background-color: #181818;
     margin:0;
 }
 
@@ -291,7 +291,7 @@ li a.nav:hover{
 }
 
 body {
-    background-color: #141414;
+    background: linear-gradient(0.25turn,#090909, #141414, #090909);
     margin:0;
     padding:0;
 }

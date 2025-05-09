@@ -7,6 +7,7 @@ platform: pc
 score: 5
 video: https://youtu.be/t6ATDpVxfpk
 release: mega drive/genesis collection
+image: "/public/post_images/sonic1.png"
 ---
 the early sega era of platformers was near nonexistent, before sonic the hedgehog. alex kidd was a thing, i guess, but... let's be honest, if alex kidd is your primary platformer, something is very wrong. when sega was looking for a new mascot, they wanted something to compete with nintendo and mario, and thus, the edgier, cooler sonic the hedgehog was born.
 

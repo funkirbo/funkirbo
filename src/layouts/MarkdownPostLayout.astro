@@ -6,6 +6,9 @@ const { frontmatter } = Astro.props;
     <div class = "flex center">
         <h2>{frontmatter.title}</h2>
         <p class = "smaller center" style = "text-align:center;">{frontmatter.release}</p>
+        <div style="border-radius:0;">
+            <img src={frontmatter.image} style='width:100%;margin-bottom:-3px;'>
+        </div>
         <div>
             <slot />
         </div>

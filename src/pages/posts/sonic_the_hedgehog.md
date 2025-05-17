@@ -5,7 +5,6 @@ description: "a damn travesty in level design."
 date: 5/3/25
 platform: pc
 score: 5
-video: https://youtu.be/t6ATDpVxfpk
 release: mega drive/genesis collection
 image: "/post_images/sonic1.png"
 ---

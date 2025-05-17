@@ -12,8 +12,6 @@ const { frontmatter } = Astro.props;
         </div>
         <p style="text-align:center;"><span class = "bold">{frontmatter.score}/10</span> played on {frontmatter.platform}
         <br>
-        <a href = {frontmatter.video}>video review</a>
-        <br>
         <span class = "smaller">{frontmatter.date}</span></p>
     </div>
 </BaseLayout>

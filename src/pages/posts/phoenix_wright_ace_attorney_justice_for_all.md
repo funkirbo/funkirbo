@@ -5,7 +5,6 @@ description: "maybe writing cases while drunk isn't a great idea..."
 date: 4/16/25
 platform: pc
 score: 7
-video: https://youtu.be/Q2oeYAzXf4M
 release: "trilogy release"
 image: "/post_images/pwaa-2.jpg"
 ---

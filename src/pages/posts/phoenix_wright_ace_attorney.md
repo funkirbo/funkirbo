@@ -5,7 +5,6 @@ description: "a very solid start to a visual novel giant."
 date: 4/11/25
 platform: pc
 score: 8
-video: https://www.youtube.com/watch?v=cx2IXpJwFFc
 release: "trilogy release"
 image: "/post_images/pwaa-1.jpg"
 ---

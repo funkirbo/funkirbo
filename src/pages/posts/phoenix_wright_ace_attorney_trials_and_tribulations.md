@@ -5,7 +5,6 @@ description: "a fantastic end to a fantastic trilogy."
 date: 5/9/25
 platform: pc
 score: 10
-video: https://youtu.be/ykzMXb5gUxI
 release: trilogy release
 image: "/post_images/pwaa-3.jpg"
 ---

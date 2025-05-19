@@ -33,10 +33,9 @@ button:hover {
 	background-color: #181818;
 	width: 700px;
 	max-width: 100%;
-	border: 2px solid white;
+	border-left: 2px solid rgb(253, 152, 208);
 	overflow-x: hidden;
 	margin: 10px;
-    border-radius: 15px;
 }
 
 .flex > div /* Boxes */ {
@@ -44,8 +43,7 @@ button:hover {
 	width: auto;
 	margin: 10px;
 	margin-bottom: 0;
-	border: 1px solid white;
-    border-radius: 15px;
+	border-left: 1px solid white;
 }
 
 .flex > div.bottom {

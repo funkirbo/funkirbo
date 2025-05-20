@@ -112,11 +112,11 @@ details.bottom /* Mostly for finished, meant for bottom review */ {
 
 @font-face {
     font-family: Lexend;
-    src: url(../../public/fonts/Lexend-Light.ttf);
+    src: url(/fonts/Lexend-Light.ttf);
 }
 @font-face {
     font-family: Lexend;
-    src: url(../../public/fonts/Lexend-SemiBold.ttf);
+    src: url(/fonts/Lexend-SemiBold.ttf);
     font-weight: bold;
 }
 
@@ -139,7 +139,7 @@ details.bottom /* Mostly for finished, meant for bottom review */ {
 
 p {
     font-family: Lexend, sans-serif;
-    font-size: 18px;
+    font-size: 20px;
     color: white;
     font-style: normal;
     margin: 10px;
@@ -151,7 +151,7 @@ p.larger {
 }
 
 .smaller {
-    font-size: 14px;
+    font-size: 16px;
     font-weight: normal;
 }
 
@@ -289,7 +289,8 @@ li a.nav:hover{
 }
 
 body {
-    background: linear-gradient(0.25turn,#000000, #131313, #000000);
+    background: #181818;
+    background-color:#080808;
     margin:0;
     padding:0;
 }

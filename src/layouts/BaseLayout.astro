@@ -1,5 +1,6 @@
 ---
 import Header from '../components/header.astro';
+import Footer from '../components/footer.astro';
 import "../styles/global.css";
 
 const { pageTitle } = Astro.props
@@ -8,9 +9,11 @@ const { pageTitle } = Astro.props
 	<head>
         <meta charset ="utf-8">
 		<title>{pageTitle}</title>
+		<link rel="icon" type="image/x-icon" href="favicon.ico">
 	</head>
 	<body>
 		<Header />
 		<slot />
+		<Footer />
     </body>
 </html>

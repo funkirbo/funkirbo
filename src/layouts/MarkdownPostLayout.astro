@@ -3,6 +3,9 @@ import BaseLayout from "./BaseLayout.astro";
 const { frontmatter } = Astro.props;
 ---
 <BaseLayout pageTitle = {frontmatter.title}>
+    <head>
+        <link rel="icon" type="image/x-icon" href="../favicon.ico">
+    </head>
     <div class = "flex center">
         <h2>{frontmatter.title}</h2>
         <p class = "smaller center" style = "text-align:center;">{frontmatter.release}</p>

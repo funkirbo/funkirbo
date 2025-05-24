@@ -7,8 +7,6 @@ platform: switch
 score: 3
 image: "/post_images/crash-1.jpg"
 release: n.sane trilogy remake
-
-url: https://www.funkirbo.net/posts/crash_bandicoot
 ---
 i am a proponent of hard games. if done well, they’re an absolute treat and a great challenge. beating a hard boss or level rewards an indescribable feeling, and those bosses encourage me to further invest myself in the mechanics of the game. even in simpler games, understanding the intricacies of how the physics work or how to best navigate each level is really fun.
 

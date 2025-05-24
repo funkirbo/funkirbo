@@ -3,8 +3,6 @@ import BaseLayout from '../layouts/BaseLayout.astro'
 const allPosts = Object.values(import.meta.glob('./posts/*.md', { eager: true }));
 
 const pageTitle = "reviews";
-const pageDesc = "all the reviews on my site!";
-const pageUrl = 'https://www.funkirbo.net/review_directory';
 ---
 <BaseLayout pageTitle={pageTitle}>
     <div class = "flex center">

@@ -2,9 +2,9 @@
 import BaseLayout from "./BaseLayout.astro";
 const { frontmatter } = Astro.props;
 
-const pageTitle = frontmatter.title
-const pageDesc = frontmatter.description
-const pageUrl = frontmatter.url
+const pageTitle = frontmatter.title;
+const pageDesc = frontmatter.description;
+const pageUrl = frontmatter.url;
 ---
 <BaseLayout pageTitle = {frontmatter.title}>
     <head>

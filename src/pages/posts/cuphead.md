@@ -6,6 +6,8 @@ date: 5/17/25
 platform: switch
 score: 9
 image: "/post_images/cuphead.jpg"
+
+url: https://www.funkirbo.net/posts/cuphead
 ---
 cuphead is a rare game. there’s not a lot of developers with the sheer dedication to create a game like cuphead, and i fully respect them for the dedication to simply creating the art and music alone. this game could’ve been completely terrible, and i still would’ve had immense respect for MDHR, based on their work ethic and perseverance.
 

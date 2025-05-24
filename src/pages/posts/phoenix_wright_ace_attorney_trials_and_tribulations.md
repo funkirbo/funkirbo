@@ -7,6 +7,8 @@ platform: pc
 score: 10
 release: trilogy release
 image: "/post_images/pwaa-3.jpg"
+
+url: https://www.funkirbo.net/posts/phoenix_wright_ace_attorney_trials_and_tribulations
 ---
 ace attorney does a couple of things really, really well. character development is one, high-impact emotional moments are another. and, while the mysteries are pretty hit or miss, there’s many more hits than misses, and even the worst cases have their moments.
 

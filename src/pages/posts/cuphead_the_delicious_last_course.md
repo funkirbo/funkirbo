@@ -6,6 +6,8 @@ date: 5/17/25
 platform: switch
 score: 9
 image: "/post_images/cuphead_dlc.png"
+
+url: https://www.funkirbo.net/posts/cuphead_the_delicious_last_course
 ---
 cuphead, by itself, is a really complete feeling game. nearly 20 bosses filled with beautiful animation, booming big band music, and tough as nails attacks to dodge. whether you’re in the air or on the ground, you’re fighting some extremely creative enemies. the classic run and gun stages are great as well, with the same hand-drawn backgrounds and obstacles, just with a different objective. there’s nothing like cuphead, not to the same amount of attention to detail and dedication to perfection.
 

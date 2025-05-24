@@ -6,6 +6,8 @@ date: 5/17/25
 platform: pc
 score: 6
 image: "/post_images/dokidoll.png"
+
+url: https://www.funkirbo.net/posts/doki_doki_dollmaker
 ---
 i love fluff. i don’t always need a deep plot or a large-scale problem, sometimes i just want to see fun characters interacting in fun ways without any issues. when i watch anime, i usually pick adorable slice of life stuff over anything action-focused. it’s not that those shows are bad, it’s just that i don’t always want to watch them.
 

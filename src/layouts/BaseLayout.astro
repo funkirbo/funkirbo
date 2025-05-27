@@ -4,6 +4,7 @@ import Footer from '../components/footer.astro';
 import "../styles/global.css";
 
 const { pageTitle } = Astro.props;
+const { pageDesc } = Astro.props;
 ---
 <html>
 	<head>
@@ -16,7 +17,7 @@ const { pageTitle } = Astro.props;
 		<meta property="og:title" content="funkirbo talks games" />
 		<meta property="og:type" content="website" />
 		<meta property="og:url" content="http://www.funkirbo.net" />
-		<meta property="og:description" content="the home of funkirbo talks games!" />
+		<meta property="og:description" content={ pageDesc } />
 	</head>
 	<body>
 		<Header />

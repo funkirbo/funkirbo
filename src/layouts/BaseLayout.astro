@@ -5,19 +5,20 @@ import "../styles/global.css";
 
 const { pageTitle } = Astro.props;
 const { pageDesc } = Astro.props;
+const { pageImage } = Astro.props;
 ---
 <html>
 	<head>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta charset ="utf-8">
-		<meta content = {pageTitle} property="og:title">
+		<meta content = { pageTitle }  property="og:title">
 		<title>{pageTitle}</title>
 		<link rel="icon" type="image/x-icon" href="favicon.ico">
 
-		<meta property="og:title" content="funkirbo talks games" />
 		<meta property="og:type" content="website" />
 		<meta property="og:url" content="http://www.funkirbo.net" />
 		<meta property="og:description" content={ pageDesc } />
+		<meta property="og:image" content={ pageImage } />
 	</head>
 	<body>
 		<Header />

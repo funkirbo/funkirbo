@@ -27,7 +27,6 @@ this change becomes more obvious because edgeworth is completely gone. phoenix a
 
 there's also another fey introduced here: pearl! she's all of 8 years old, and is an adorably naive little girl. her role as maya's pseudo little sister is really cute, and they often tag-team to make fun of phoenix (though she sometimes doesn't know that). she's got a lot of weight on her shoulders, as her mother insists on her continued spirit medium training, and sometimes that pressure shows in her lack of confidence. either way, she's an excellent addition to the phoenix's little bunch. 
 
-**SPOILERS AHOY - - - - - - - - - - - -**
 
 for some reason, ace attorney needs to shove a tutorial case in every single game, including sequels. it ends up leading to cases like this game's first: phoenix gets amnesia, and defends a cop. that's it. the culprit is dumb, and mistakes a baseball glove for some bananas. fucking. bananas.
 
@@ -38,8 +37,6 @@ remember when i mentioned that takumi was shitfaced writing these cases? yeah, t
 and after that, we get a masterpiece. farewell my turnabout is the first case phoenix defends on blackmail. he's defending a guilty client, only because maya's held hostage. he's badgering witnesses for more time, harassing them about their mentor's suicide, all to stall for time. edgeworth's return sees him more matured, and it takes a complete reevaluation of his lawyerly mindset for phoenix to find the truth. his client is guilty, and he can get maya back. franziska turns, despite her hostility, into an essential piece of the investigation. everyone comes together to help each other out, despite their differences. it feels like it should be preachy, but it isn't. it feels rewarding.
 
 and... the post-credits. miles meets franziska in the airport. her perfect record, her perfect lifestyle is broken... and she breaks. reworking your entire world view is hard, especially on someone so young. at just 17, her entire life is starting over. so she cries. she allows herself to break, likely for the first time in years. it's absolutely gutting... but also extremely gratifying, to see her actively want to move towards a future where she's a better lawyer, and a better person. 
-
-**SPOILERS END - - - - - - - - - - - -**
 
 there are positives here, for sure. the final case is wondrous, there are extremely personal character moments throughout each case... yet it feels inconsistent. turnabout big top is just too bad, and kills the engaging feeling brought by the second case. for every perfect emotional beat, there's a poorly executed one. the highs are high, and the lows are low.
 

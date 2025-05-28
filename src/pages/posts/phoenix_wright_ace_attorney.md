@@ -30,8 +30,6 @@ of course, there's some other fun repeating characters. gumshoe is a silly detec
 
 both these characters and the cases of the game play into the overarching themes: family ties, and courtroom corruption. edgeworth is the face of the corrupt courts, and gumshoe often fights against his will by helping phoenix with evidence. maya and mia are both spirit mediums, who are looking to form their own future against the grain of their family's wishes. every case exacerbates these themes further, placing each character in a position to face their problems head-on. even when the mystery itself isn't great, how the characters interact during each case is always well-done. 
 
-**SPOILERS AHOY - - - - - - - - - - - -**
-
 even the first case, a bonafide tutorial where the killer is known from the start, plays into that theming. your client, larry, is a bumbling fool, but he did really care for his girlfriend, the victim, no matter how shallow those feelings may have been.
 
 then mia is killed. your mentor dies, and you lay defending her younger sister. maya's distraught, obviously, and even while phoenix is still comprehending what happened, he still feels the drive to save maya. he knows that losing her sister is damn hard, and fights tooth and nail to find the truth, even against a corrupt, government-controlling blackmailer, with a still uptight prosecutor on his side.
@@ -43,8 +41,6 @@ after that tragedy, they take a trip to hollywood. a place that should be jolly,
 it all ends with the murder of a detective, at the hands of the chief of police, assisted by a blackmailed chief prosecutor. at this point, any semblance of normalcy that edgeworth has had is now completely toppled. his life fell apart... and he still fought for the right verdict, a complete 180 from his initially "demonic" ways.
 
 the character development is what truly sells these cases. no character comes out unchanged. phoenix starts as a rookie, but by the end, his tactics are more firm. he's more confident, even if his skills aren't super polished yet. edgeworth's entire life is flipped on its head, and his character changes from evil to helpful. maya's self-doubt after the death of her sister is a consistent undertone through the entire game, until her departure after the fourth case to improve her skills as a medium. her want to feel less useless pushed her to improve herself.
-
-**SPOILERS END - - - - - - - - - - - -**
 
 the story as a whole is quite good throughout. there are some ups and downs - the third case specifically isn't a terribly fun mystery, and there are some characters i'm not a huge fan of - but as a whole, the narrative being conveyed is very well done.
 

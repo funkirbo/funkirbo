@@ -5,7 +5,7 @@ description: "another mystery solved by the great detective!"
 date: 6/10/25
 platform: pc
 score: 7
-image: "/post_images/dokidoll.png"
+image: "/post_images/frog_detective_2.png"
 ---
 after the absolute masterclass that was frog detective 1: the haunted island, grace bruxner and co decided to continue making their amazing pieces of art with a sequel or two. thus, frog detective 2: the case of the invisible wizard was born, another frankly incredible mystery that expands on what made frog detective so charming in the first place.
 

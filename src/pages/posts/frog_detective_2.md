@@ -1,3 +1,12 @@
+---
+layout: "../../layouts/MarkdownPostLayout.astro"
+title: "frog detective 2: the case of the invisible wizard"
+description: "another mystery solved by the great detective!"
+date: 6/10/25
+platform: pc
+score: 7
+image: "/post_images/dokidoll.png"
+---
 after the absolute masterclass that was frog detective 1: the haunted island, grace bruxner and co decided to continue making their amazing pieces of art with a sequel or two. thus, frog detective 2: the case of the invisible wizard was born, another frankly incredible mystery that expands on what made frog detective so charming in the first place.
 
 once again, i jest slightly: frog detective 2 is not one of the greatest games of all time. it is another installment in the quirky series of visual novels, best known for some pretty silly dialogue and fun character design. it’s nothing that’ll blow your mind, once again, but it’s a fun playthrough for it’s one hour runtime.

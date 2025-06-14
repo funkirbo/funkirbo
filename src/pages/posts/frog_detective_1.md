@@ -2,7 +2,6 @@
 layout: "../../layouts/MarkdownPostLayout.astro"
 title: "frog detective 1: the haunted island"
 description: "a simple, silly time with everyone's favorite detective!"
-date: 6/5/25
 platform: pc
 score: 7
 image: "/post_images/frog_detective_1.jpg"

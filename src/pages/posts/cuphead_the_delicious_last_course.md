@@ -2,7 +2,6 @@
 layout: "../../layouts/MarkdownPostLayout.astro"
 title: "cuphead: the delicious last course"
 description: "more of the same, with a haunting finale."
-date: 5/17/25
 platform: switch
 score: 9
 image: "/post_images/cuphead_dlc.png"

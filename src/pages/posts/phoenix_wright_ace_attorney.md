@@ -2,7 +2,6 @@
 layout: "../../layouts/MarkdownPostLayout.astro"
 title: "phoenix wright: ace attorney"
 description: "a very solid start to a visual novel giant."
-date: 4/11/25
 platform: pc
 score: 8
 release: "trilogy release"

@@ -2,7 +2,6 @@
 layout: "../../layouts/MarkdownPostLayout.astro"
 title: "cuphead"
 description: "an aesthetic like no other, in the best way possible."
-date: 5/17/25
 platform: switch
 score: 9
 image: "/post_images/cuphead.jpg"

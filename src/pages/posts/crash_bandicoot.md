@@ -2,7 +2,6 @@
 layout: "../../layouts/MarkdownPostLayout.astro"
 title: "crash bandicoot"
 description: "yeah, if only the camera angle was better..."
-date: 5/15/25
 platform: switch
 score: 3
 image: "/post_images/crash-1.jpg"

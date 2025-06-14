@@ -2,7 +2,6 @@
 layout: "../../layouts/MarkdownPostLayout.astro"
 title: "the messenger"
 description: "a really cool retro throwback!"
-date: 5/28/25
 platform: pc
 score: 8
 image: "/post_images/messenger.jpg"

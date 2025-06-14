@@ -2,7 +2,6 @@
 layout: "../../layouts/MarkdownPostLayout.astro"
 title: "neon abyss"
 description: "it's pretty good, and i'm perfectly okay with that!"
-date: 4/28/25
 platform: pc
 score: 7
 image: "/post_images/neonabyss.png"

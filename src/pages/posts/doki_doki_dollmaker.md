@@ -2,7 +2,6 @@
 layout: "../../layouts/MarkdownPostLayout.astro"
 title: "doki doki dollmaker"
 description: "cute boys, cuter interactions."
-date: 5/17/25
 platform: pc
 score: 6
 image: "/post_images/dokidoll.png"

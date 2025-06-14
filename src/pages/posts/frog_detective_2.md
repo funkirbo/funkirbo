@@ -2,7 +2,6 @@
 layout: "../../layouts/MarkdownPostLayout.astro"
 title: "frog detective 2: the case of the invisible wizard"
 description: "another mystery solved by the great detective!"
-date: 6/10/25
 platform: pc
 score: 7
 image: "/post_images/frog_detective_2.png"

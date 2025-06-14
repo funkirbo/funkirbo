@@ -2,7 +2,6 @@
 layout: "../../layouts/MarkdownPostLayout.astro"
 title: "phoenix wright: ace attorney - trials and tribulations"
 description: "a fantastic end to a fantastic trilogy."
-date: 5/9/25
 platform: pc
 score: 10
 release: trilogy release

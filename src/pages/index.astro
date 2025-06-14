@@ -4,7 +4,6 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
 // For recent post (unfortunately still must do manually until I get better at this)
 const recentTitle = "frog detective 2: the case of the invisible wizard";
-const recentDate = "6/10/25";
 const recentDesc = "another mystery solved by the great detective!"
 const recentURL = "/posts/frog_detective_2";
 const recentImage = "/post_images/frog_detective_2.png";
@@ -34,7 +33,7 @@ const allPosts = Object.values(import.meta.glob('./posts/*.md', { eager: true })
 				<a href="https://www.funkirbo.net/review_directory">
 					game notes
 				</a>
-				 tab
+				tab
 			</p>
 		</div>
 	</div>
@@ -44,7 +43,7 @@ const allPosts = Object.values(import.meta.glob('./posts/*.md', { eager: true })
 			<div class = "bottom">
 				<p>
 					<a href={recentURL}>{recentTitle}</a><br>
-					<span class = "smaller">{recentDate}<br>{recentDesc}</span>
+					<span class = "smaller">{recentDesc}</span>
 				</p>
 			</div>
 		</div>

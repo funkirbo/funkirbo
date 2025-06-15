@@ -12,4 +12,4 @@ yup, frog detective 3, at it’s core, is just another frog detective game. this
 
 outside of that, frog detective 3 is also the longest game, with the most fun story in my eyes. whether you’re talking with a group of really friendly bandits or convincing cowboy county that crime isn’t real, the dry humor that makes frog detective stand out returns tenfold. the more old-timey areas are really fun, and the character’s eccentricities contrast really nicely to the white bread that is frog detective himself.
 
-it’s the best the frog detective series has to offer, for sure. the scooter is a blast, the humor is still on point, and the story is filled with some more fun twists and turns that usual. it’s a good time!
+it’s the best the frog detective series has to offer, for sure. the scooter is a blast, the humor is still on point, and the story is filled with some more fun twists and turns than usual. it’s a good time!

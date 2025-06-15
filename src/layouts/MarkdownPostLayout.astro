@@ -11,11 +11,11 @@ const { frontmatter } = Astro.props;
 <BaseLayout pageTitle = {frontmatter.title} pageDesc = {frontmatter.description} pageImage = {frontmatter.image}>
     <div class = "flex center">
         <h2>{frontmatter.title}</h2>
-        <p class = "smaller center" style = "text-align:center;">{frontmatter.release}</p>
+        <p class = "smaller center" style = "text-align:center;margin-top: 0;">{frontmatter.release}</p>
         <img src={frontmatter.image} style='width:90%;margin:auto;border:1px solid white;'>
         <div>
             <slot />
         </div>
-        <p style="text-align:center;"><span class = "bold">{frontmatter.score}/10</span> played on {frontmatter.platform}
+        <p style="text-align:center;"><span class = "bold" style = "font-size: 40px;">{frontmatter.score}/10</span><br> played on {frontmatter.platform}
     </div>
 </BaseLayout>

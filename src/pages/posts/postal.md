@@ -1,11 +1,10 @@
 ---
 layout: "../../layouts/MarkdownPostLayout.astro"
-title: "postal"
+title: "postal redux"
 description: "thrilling concept, mixed execution."
 platform: pc
 score: 6
 image: "/post_images/postal.jpg"
-release: redux
 ---
 postal's tough to really analyze to me.
 

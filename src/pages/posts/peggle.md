@@ -1,10 +1,11 @@
 ---
 layout: "../../layouts/MarkdownPostLayout.astro"
-title: "peggle deluxe"
+title: "peggle"
 description: "pachinko at its finest."
 platform: pc
 score: 7
 image: "/post_images/peggle.jpg"
+release: deluxe
 ---
 I AM A GODDAMN PEGGLE MASTER!!!!!!!!!!!!
 

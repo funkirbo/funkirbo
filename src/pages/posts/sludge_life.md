@@ -1,6 +1,6 @@
 ---
 layout: "../../layouts/MarkdownPostLayout.astro"
-title: "slidge life"
+title: "sludge life"
 description: "goodness, it's grimy!"
 platform: pc
 score: 7

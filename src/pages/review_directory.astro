@@ -2,8 +2,8 @@
 import BaseLayout from '../layouts/BaseLayout.astro'
 const allPosts = Object.values(import.meta.glob('./posts/*.md', { eager: true }));
 
-const pageTitle = "game notes";
-const pageDesc = "all of my notes, lined up!";
+const pageTitle = "reviews";
+const pageDesc = "all of my reviews, lined up!";
 ---
 <html>
 	<head>
@@ -14,8 +14,8 @@ const pageDesc = "all of my notes, lined up!";
     <div class = "flex center">
         <h2>reviews</h2>
         <div class="bottom">
-            <p>these are my notes, sorted alphabetically!</p>
-            <p>basically, they're just mini-reviews about games. i've got a lot more to say about some games compared to others, so some of these'll be pretty short lol.</p>
+            <p>these are my reviews, sorted alphabetically!</p>
+            <p>these are just my mini-reviews about games. i've got a lot more to say about some games compared to others, so some of these'll be pretty short lol.</p>
         </div>
     </div>
     <div class = "flex center">

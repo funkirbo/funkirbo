@@ -1,6 +1,6 @@
 ---
 layout: "../../layouts/MarkdownPostLayout.astro"
-title: "katamari damacy: reroll"
+title: "katamari damacy reroll"
 description: "roll em up, roll em up, roll em up..."
 platform: pc
 score: 9

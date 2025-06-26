@@ -33,6 +33,7 @@ button:hover {
 	background-color: #181818;
 	width: 700px;
 	max-width: 100%;
+    border:1px solid white;
 	border-left: 4px solid rgb(255, 86, 179);
 	overflow-x: hidden;
 	margin: 10px;
@@ -43,7 +44,8 @@ button:hover {
 	width: auto;
 	margin: 10px;
 	margin-bottom: 0;
-	border-left: 1px solid white;
+	border: 1px solid white;
+    border-left: 4px solid rgb(255, 146, 206);
 }
 
 .flex > div.bottom {
@@ -139,7 +141,7 @@ details.bottom /* Mostly for finished, meant for bottom review */ {
 
 p {
     font-family: Lexend, sans-serif;
-    font-size: 20px;
+    font-size: 24px;
     color: white;
     font-style: normal;
     margin: 10px;
@@ -147,7 +149,7 @@ p {
 }
 
 p.larger {
-    font-size: 24px;
+    font-size: 28px;
 }
 
 .smaller {
@@ -185,7 +187,7 @@ h1 {
 
 h2 {
     font-family: Lexend, sans-serif;
-    font-size: 30px;
+    font-size: 32px;
     color: white;
     font-weight: bold;
     margin: 10px;
@@ -195,7 +197,7 @@ h2 {
 
 h3 {
     font-family: Lexend, sans-serif;
-    font-size: 24px;
+    font-size: 28px;
     color: white;
     font-weight: bold;
     margin: 10px;
@@ -225,7 +227,7 @@ ul {
 
 li {
     font-family: Lexend, sans-serif;
-    font-size: 18px;
+    font-size: 24px;
     color: white;
     font-style: normal;
     padding-left: 0;

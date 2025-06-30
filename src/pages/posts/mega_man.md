@@ -5,6 +5,7 @@ description: "undercooked, underbaked, the kitchen is burning."
 platform: switch
 score: 3
 image: "/post_images/mega_man.png"
+release: legacy collection
 ---
 the first mega man falls into a similar category as sonic 1 for me: a game with the vibes and "feel" down, with some absolutely atrocious level design.
 

@@ -2,7 +2,7 @@
 layout: "../../layouts/MarkdownPostLayout.astro"
 title: "west of loathing"
 description: "fantastic style, terrible role-playing."
-platform: pc
+platform: switch
 score: 6
 image: "/post_images/west_of_loathing.jpg"
 ---

@@ -4,7 +4,7 @@ title: "new super lucky's tale"
 description: "god, it's just so boring..."
 platform: xbox one
 score: 5
-image: "/post_images/new_super_lucky's_tale.jpg"
+image: "/post_images/new_super_luckys_tale.jpg"
 ---
 new super lucky's tale is not bad; i can't tell you that you won't enjoy it. if this kind of 3D platformer is your thing, you'll have a good time.
 

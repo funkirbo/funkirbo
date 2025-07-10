@@ -1,7 +1,7 @@
 ---
 layout: "../../layouts/MarkdownPostLayout.astro"
 title: "ape escape"
-description: "clear your mind with a satisfying hike."
+description: "a wonderful, very 90s romp."
 platform: ps1
 score: 7
 image: "/post_images/ape_escape.jpg"

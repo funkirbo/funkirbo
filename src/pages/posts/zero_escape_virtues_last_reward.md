@@ -5,6 +5,7 @@ description: "great game for 80% of its runtime."
 platform: pc
 score: 6
 image: "/post_images/zero_escape_virtues_last_reward.jpg"
+release: nonary games
 ---
 i've played a lot of video games in my time. not quite as many as some of the people who frequent this site, not quite as many as those decades older than i, but enough to not feel like a beginner. corny as it is, i can call myself a "gamer" and have that title make a hell of a lot of sense. and, of all the games i've played in my day, no single game has been ruined by its ending as much as **virtue's last reward.**
 

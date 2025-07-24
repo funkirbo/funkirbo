@@ -1,10 +1,10 @@
 ---
 layout: "../../layouts/MarkdownPostLayout.astro"
-title: "999: nine hours, nine persons, nine doors"
+title: "zero escape: nine hours, nine persons, nine doors"
 description: "a fantastic deviation on the psych-horror genre."
 platform: pc
 score: 8
-image: "/post_images/999.jpg"
+image: "/post_images/zero_escape_999.jpg"
 release: nonary games
 ---
 i find 999 tough to talk about.
